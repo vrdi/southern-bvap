@@ -12,7 +12,7 @@ Mississippi | `28` | 4 | 122 | 52 | 171778 | 2161 | 2967297 | 1093512 | 764250
 South Carolina | `45` | 7 | 124 | 46 | 181908 | 3054 | 4625364 | 1279998 | 932892
 Tennessee | `47` | 9  | 99 | 33 | 240116 | 4125| 6346105 | 1049391 | 750653
 
-\* counts only non-Hispanic Black populations
+\* counts only Black alone populations
 
 ## Data
 State dual graphs (block level) are too large to host on github; [they can be downloaded here](http://groups.csail.mit.edu/gdpgroup/redistricting/states.zip).
