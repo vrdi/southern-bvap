@@ -14,8 +14,10 @@ Tennessee | `47` | 9  | 99 | 33 | 240116 | 4125| 6346105 | 1049391 | 750653
 
 \* counts only non-Hispanic Black populations
 
-## State Laws
+## Data
+State dual graphs (block level) are too large to host on github; [they can be downloaded here](http://groups.csail.mit.edu/gdpgroup/redistricting/states.zip).
 
+## State Laws
 Comprehensive writeup for each state's redistricting rules [can be found here](https://docs.google.com/document/d/1aJmJ_u3CV50kMVMtmDcI9op_Zsq1k4dLLo6pYbaa1uw/edit).
 
 ### Alabama [[source]](http://www.legislature.state.al.us/aliswww/reapportionment/Reapportionment%20Guidelines%20for%20Redistricting.pdf)
@@ -53,3 +55,4 @@ Comprehensive writeup for each state's redistricting rules [can be found here](h
 
 ### Tennessee [[source]](https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=52a2d157-6b41-4f61-8774-bb258bac8500&nodeid=AADAABAABAAC&nodepath=%2fROOT%2fAAD%2fAADAAB%2fAADAABAAB%2fAADAABAABAAC&title=3-1-102.+Composition+of+state+senatorial+districts.&config=025054JABlOTJjNmIyNi0wYjI0LTRjZGEtYWE5ZC0zNGFhOWNhMjFlNDgKAFBvZENhdGFsb2cDFQ14bX2GfyBTaI9WcPX5&pddocfullpath=%2fshared%2fdocument%2fstatutes-legislation%2furn%3acontentItem%3a4X8J-6SH0-R03N-6340-00008-00&ecomp=g37_kkk&prid=fb0c9dd9-aeb8-45d1-be46-126cc5b507d9)
 * Contiguity by water is sufficient.
+
